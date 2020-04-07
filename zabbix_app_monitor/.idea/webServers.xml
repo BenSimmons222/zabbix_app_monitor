@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="abfb4345-6741-4379-9e90-ad4f9456a3a6" name="10.10.10.33" url="http://10.10.10.33">
+        <fileTransfer host="10.10.10.33" port="22" rootFolder="/usr/local/zbxexec" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

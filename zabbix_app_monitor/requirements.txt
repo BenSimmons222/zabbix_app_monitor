@@ -1,0 +1,5 @@
+[zbx_redis]
+redis
+
+[zbx_znode]
+kazoo
