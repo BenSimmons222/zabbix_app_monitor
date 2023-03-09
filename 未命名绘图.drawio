@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T02:10:32.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" version="21.0.4" etag="JgHdvuJwOM9-m4lDCvLv" type="github"><diagram name="第 1 页" id="XmFZqiOgPMPaNmkfT7bW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-09T02:44:24.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="KjZicDPUvYpZ6jvW2Sbc" version="21.0.4" type="github">
+  <diagram name="第 1 页" id="XmFZqiOgPMPaNmkfT7bW">
+    <mxGraphModel dx="1306" dy="874" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-7" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;松山湖数据中心&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="740" height="680" as="geometry" />
+        </mxCell>
+        <object label="VM-1" id="X4FmEYzub-dNA6Zaw89p-18">
+          <mxCell style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;" vertex="1" parent="1">
+            <mxGeometry x="60" y="500" width="200" height="200" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X4FmEYzub-dNA6Zaw89p-24" target="X4FmEYzub-dNA6Zaw89p-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X4FmEYzub-dNA6Zaw89p-24" target="X4FmEYzub-dNA6Zaw89p-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X4FmEYzub-dNA6Zaw89p-24" target="X4FmEYzub-dNA6Zaw89p-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X4FmEYzub-dNA6Zaw89p-24" target="X4FmEYzub-dNA6Zaw89p-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X4FmEYzub-dNA6Zaw89p-24" target="X4FmEYzub-dNA6Zaw89p-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X4FmEYzub-dNA6Zaw89p-24" target="X4FmEYzub-dNA6Zaw89p-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-24" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;应用服务&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-21" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.vm_linux;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="46" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-22" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="338.1" y="224.5" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-30" value="redis-master-1" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="458" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-31" value="redis-salve-2" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="50" height="42" as="geometry" />
+        </mxCell>
+        <object label="VM-1" id="X4FmEYzub-dNA6Zaw89p-37">
+          <mxCell style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;" vertex="1" parent="1">
+            <mxGeometry x="340" y="510" width="130" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-38" value="redis-master-2" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="460" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-39" value="redis-2" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="410" y="470" width="50" height="42" as="geometry" />
+        </mxCell>
+        <object label="VM-1" id="X4FmEYzub-dNA6Zaw89p-40">
+          <mxCell style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;" vertex="1" parent="1">
+            <mxGeometry x="610" y="520" width="130" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-41" value="redis-master-3" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="470" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="X4FmEYzub-dNA6Zaw89p-44" value="redis-salve-1" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="680" y="480" width="50" height="42" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
